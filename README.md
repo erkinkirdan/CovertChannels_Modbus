@@ -1,7 +1,5 @@
 # Covert Channels in Modbus
 
-## Overview
-
 This repository contains two C programs that demonstrate covert channels in a simple client-server communication using the Modbus TCP protocol.
 
 ## Requirements
